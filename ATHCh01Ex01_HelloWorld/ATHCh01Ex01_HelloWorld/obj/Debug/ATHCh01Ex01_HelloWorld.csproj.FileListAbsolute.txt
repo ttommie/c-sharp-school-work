@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_01\ATHCh01Ex01_HelloWorld\ATHCh01Ex01_HelloWorld\bin\Debug\ATHCh01Ex01_HelloWorld.exe.config
+E:\c_sharp_2021\chapter_01\ATHCh01Ex01_HelloWorld\ATHCh01Ex01_HelloWorld\bin\Debug\ATHCh01Ex01_HelloWorld.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex01_HelloWorld\ATHCh01Ex01_HelloWorld\bin\Debug\ATHCh01Ex01_HelloWorld.pdb
+E:\c_sharp_2021\chapter_01\ATHCh01Ex01_HelloWorld\ATHCh01Ex01_HelloWorld\obj\Debug\ATHCh01Ex01_HelloWorld.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_01\ATHCh01Ex01_HelloWorld\ATHCh01Ex01_HelloWorld\obj\Debug\ATHCh01Ex01_HelloWorld.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_01\ATHCh01Ex01_HelloWorld\ATHCh01Ex01_HelloWorld\obj\Debug\ATHCh01Ex01_HelloWorld.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex01_HelloWorld\ATHCh01Ex01_HelloWorld\obj\Debug\ATHCh01Ex01_HelloWorld.pdb
