@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATHCh02Ex03_ExamScores", "ATHCh02Ex03_ExamScores\ATHCh02Ex03_ExamScores.csproj", "{23AC185F-A85E-4202-AB4B-DE5F7DCCAD2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23AC185F-A85E-4202-AB4B-DE5F7DCCAD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AC185F-A85E-4202-AB4B-DE5F7DCCAD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AC185F-A85E-4202-AB4B-DE5F7DCCAD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AC185F-A85E-4202-AB4B-DE5F7DCCAD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8ED5C1-E6F0-47BA-8AEC-3CDC9603EC1C}
+	EndGlobalSection
+EndGlobal
