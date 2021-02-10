@@ -1,0 +1,14 @@
+E:\c_sharp_2021\chapter_01\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\bin\Debug\ATHCh01Ex07_InfoBox.exe.config
+E:\c_sharp_2021\chapter_01\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\bin\Debug\ATHCh01Ex07_InfoBox.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\bin\Debug\ATHCh01Ex07_InfoBox.pdb
+E:\c_sharp_2021\chapter_01\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_01\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_01\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.pdb
+D:\c_sharp_2021\chapter_01\github uploads\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\bin\Debug\ATHCh01Ex07_InfoBox.exe.config
+D:\c_sharp_2021\chapter_01\github uploads\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\bin\Debug\ATHCh01Ex07_InfoBox.exe
+D:\c_sharp_2021\chapter_01\github uploads\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\bin\Debug\ATHCh01Ex07_InfoBox.pdb
+D:\c_sharp_2021\chapter_01\github uploads\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.csprojAssemblyReference.cache
+D:\c_sharp_2021\chapter_01\github uploads\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.csproj.CoreCompileInputs.cache
+D:\c_sharp_2021\chapter_01\github uploads\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.exe
+D:\c_sharp_2021\chapter_01\github uploads\ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox\obj\Debug\ATHCh01Ex07_InfoBox.pdb

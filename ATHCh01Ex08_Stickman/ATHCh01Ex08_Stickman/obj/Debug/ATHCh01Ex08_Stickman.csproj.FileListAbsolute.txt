@@ -1,0 +1,6 @@
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex08_Stickman\ATHCh01Ex08_Stickman\bin\Debug\ATHCh01Ex08_Stickman.exe.config
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex08_Stickman\ATHCh01Ex08_Stickman\bin\Debug\ATHCh01Ex08_Stickman.exe
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex08_Stickman\ATHCh01Ex08_Stickman\bin\Debug\ATHCh01Ex08_Stickman.pdb
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex08_Stickman\ATHCh01Ex08_Stickman\obj\Debug\ATHCh01Ex08_Stickman.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex08_Stickman\ATHCh01Ex08_Stickman\obj\Debug\ATHCh01Ex08_Stickman.exe
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex08_Stickman\ATHCh01Ex08_Stickman\obj\Debug\ATHCh01Ex08_Stickman.pdb

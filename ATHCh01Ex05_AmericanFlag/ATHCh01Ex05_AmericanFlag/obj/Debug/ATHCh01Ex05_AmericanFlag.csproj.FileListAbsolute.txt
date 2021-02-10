@@ -1,0 +1,6 @@
+E:\c_sharp_2021\chapter_01\ATHCh01Ex05_AmericanFlag\ATHCh01Ex05_AmericanFlag\bin\Debug\ATHCh01Ex05_AmericanFlag.exe.config
+E:\c_sharp_2021\chapter_01\ATHCh01Ex05_AmericanFlag\ATHCh01Ex05_AmericanFlag\bin\Debug\ATHCh01Ex05_AmericanFlag.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex05_AmericanFlag\ATHCh01Ex05_AmericanFlag\bin\Debug\ATHCh01Ex05_AmericanFlag.pdb
+E:\c_sharp_2021\chapter_01\ATHCh01Ex05_AmericanFlag\ATHCh01Ex05_AmericanFlag\obj\Debug\ATHCh01Ex05_AmericanFlag.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_01\ATHCh01Ex05_AmericanFlag\ATHCh01Ex05_AmericanFlag\obj\Debug\ATHCh01Ex05_AmericanFlag.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex05_AmericanFlag\ATHCh01Ex05_AmericanFlag\obj\Debug\ATHCh01Ex05_AmericanFlag.pdb

@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex10_Initials\ATHCh01Ex10_Initials\bin\Debug\ATHCh01Ex10_Initials.exe.config
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex10_Initials\ATHCh01Ex10_Initials\bin\Debug\ATHCh01Ex10_Initials.exe
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex10_Initials\ATHCh01Ex10_Initials\bin\Debug\ATHCh01Ex10_Initials.pdb
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex10_Initials\ATHCh01Ex10_Initials\obj\Debug\ATHCh01Ex10_Initials.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex10_Initials\ATHCh01Ex10_Initials\obj\Debug\ATHCh01Ex10_Initials.exe
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex10_Initials\ATHCh01Ex10_Initials\obj\Debug\ATHCh01Ex10_Initials.pdb
+E:\c_sharp_2021\chapter_01\ch01_lab_work\ATHCh01Ex10_Initials\ATHCh01Ex10_Initials\obj\Debug\ATHCh01Ex10_Initials.csprojAssemblyReference.cache

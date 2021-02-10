@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_01\ATHCh01Ex03_XOutput\ATHCh01Ex03_XOutput\bin\Debug\ATHCh01Ex03_XOutput.exe.config
+E:\c_sharp_2021\chapter_01\ATHCh01Ex03_XOutput\ATHCh01Ex03_XOutput\bin\Debug\ATHCh01Ex03_XOutput.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex03_XOutput\ATHCh01Ex03_XOutput\bin\Debug\ATHCh01Ex03_XOutput.pdb
+E:\c_sharp_2021\chapter_01\ATHCh01Ex03_XOutput\ATHCh01Ex03_XOutput\obj\Debug\ATHCh01Ex03_XOutput.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_01\ATHCh01Ex03_XOutput\ATHCh01Ex03_XOutput\obj\Debug\ATHCh01Ex03_XOutput.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_01\ATHCh01Ex03_XOutput\ATHCh01Ex03_XOutput\obj\Debug\ATHCh01Ex03_XOutput.exe
+E:\c_sharp_2021\chapter_01\ATHCh01Ex03_XOutput\ATHCh01Ex03_XOutput\obj\Debug\ATHCh01Ex03_XOutput.pdb

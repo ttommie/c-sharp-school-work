@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATHCh01Ex07_InfoBox", "ATHCh01Ex07_InfoBox\ATHCh01Ex07_InfoBox.csproj", "{0296D44F-3C38-4D26-9B1A-BEB47BDA5EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0296D44F-3C38-4D26-9B1A-BEB47BDA5EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0296D44F-3C38-4D26-9B1A-BEB47BDA5EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0296D44F-3C38-4D26-9B1A-BEB47BDA5EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0296D44F-3C38-4D26-9B1A-BEB47BDA5EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A79D74-2043-42F2-BE7E-F5323418734F}
+	EndGlobalSection
+EndGlobal
