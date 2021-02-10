@@ -2,7 +2,7 @@
 
 ## File Name Explained 
 ### Example: ATHCh01Ex03_Example
-#### ATH : My initials
-#### Ch## : Chapter number from the book
-#### Ex## : Excercise from the book
-#### _ Example: General one word name involving the program being named 
+##### ATH : My initials
+##### Ch## : Chapter number from the book
+##### Ex## : Excercise from the book
+##### _ Example: General one word name involving the program being named 
