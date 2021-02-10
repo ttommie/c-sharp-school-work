@@ -16,7 +16,7 @@ namespace ATHCh01Ex01_HelloWorld
         static void Main()
         {
             //PRINT OUT THE MESSAGE TO THE CONSOLE
-            WriteLine("Hello World! My name is Aaron Hearne");
+            WriteLine("Hello World! My name is Tommie");
             //WAIT FOR USER TO HIT A KEY ON KEYBOARD TO CONTINUE
             ReadKey();
         }
