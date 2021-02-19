@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCH03Ex08_GranolaBars\ATHCH03Ex08_GranolaBars\bin\Debug\ATHCH03Ex08_GranolaBars.exe.config
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCH03Ex08_GranolaBars\ATHCH03Ex08_GranolaBars\bin\Debug\ATHCH03Ex08_GranolaBars.exe
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCH03Ex08_GranolaBars\ATHCH03Ex08_GranolaBars\bin\Debug\ATHCH03Ex08_GranolaBars.pdb
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCH03Ex08_GranolaBars\ATHCH03Ex08_GranolaBars\obj\Debug\ATHCH03Ex08_GranolaBars.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCH03Ex08_GranolaBars\ATHCH03Ex08_GranolaBars\obj\Debug\ATHCH03Ex08_GranolaBars.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCH03Ex08_GranolaBars\ATHCH03Ex08_GranolaBars\obj\Debug\ATHCH03Ex08_GranolaBars.exe
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCH03Ex08_GranolaBars\ATHCH03Ex08_GranolaBars\obj\Debug\ATHCH03Ex08_GranolaBars.pdb
