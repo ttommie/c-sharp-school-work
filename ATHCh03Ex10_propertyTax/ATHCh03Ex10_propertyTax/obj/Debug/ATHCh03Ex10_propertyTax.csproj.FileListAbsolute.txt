@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCh03Ex10_propertyTax\ATHCh03Ex10_propertyTax\bin\Debug\ATHCh03Ex10_propertyTax.exe.config
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCh03Ex10_propertyTax\ATHCh03Ex10_propertyTax\bin\Debug\ATHCh03Ex10_propertyTax.exe
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCh03Ex10_propertyTax\ATHCh03Ex10_propertyTax\bin\Debug\ATHCh03Ex10_propertyTax.pdb
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCh03Ex10_propertyTax\ATHCh03Ex10_propertyTax\obj\Debug\ATHCh03Ex10_propertyTax.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCh03Ex10_propertyTax\ATHCh03Ex10_propertyTax\obj\Debug\ATHCh03Ex10_propertyTax.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCh03Ex10_propertyTax\ATHCh03Ex10_propertyTax\obj\Debug\ATHCh03Ex10_propertyTax.exe
+E:\c_sharp_2021\chapter_03\Ch03_lab_work\ATHCh03Ex10_propertyTax\ATHCh03Ex10_propertyTax\obj\Debug\ATHCh03Ex10_propertyTax.pdb
