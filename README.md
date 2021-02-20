@@ -11,3 +11,5 @@
 
 #### Book Being Used 
 C# Programming: From Problem Analysis to Program Design
+
+*note - only doing exercises assigned in class not all exercises will be complete 
