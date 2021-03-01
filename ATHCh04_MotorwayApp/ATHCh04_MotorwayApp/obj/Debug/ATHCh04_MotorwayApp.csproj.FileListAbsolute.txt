@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04_MotorwayApp\ATHCh04_MotorwayApp\bin\Debug\ATHCh04_MotorwayApp.exe.config
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04_MotorwayApp\ATHCh04_MotorwayApp\bin\Debug\ATHCh04_MotorwayApp.exe
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04_MotorwayApp\ATHCh04_MotorwayApp\bin\Debug\ATHCh04_MotorwayApp.pdb
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04_MotorwayApp\ATHCh04_MotorwayApp\obj\Debug\ATHCh04_MotorwayApp.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04_MotorwayApp\ATHCh04_MotorwayApp\obj\Debug\ATHCh04_MotorwayApp.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04_MotorwayApp\ATHCh04_MotorwayApp\obj\Debug\ATHCh04_MotorwayApp.exe
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04_MotorwayApp\ATHCh04_MotorwayApp\obj\Debug\ATHCh04_MotorwayApp.pdb
