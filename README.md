@@ -4,7 +4,8 @@
 ##### Example: ATHCh01Ex03_Example
 ###### ATH : My initials
 ###### Ch## : Chapter number from the book
-###### Ex## : Excercise from the book *note - If no excercise given = in class work
+###### Ex## : Excercise from the book 
+*note - If no excercise given: in class work
 ###### _ Example: General one word name involving the program being named 
 
 <hr>
