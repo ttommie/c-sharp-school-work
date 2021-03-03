@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex05_receipt\ATHCh04Ex05_receipt\bin\Debug\ATHCh04Ex05_receipt.exe.config
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex05_receipt\ATHCh04Ex05_receipt\bin\Debug\ATHCh04Ex05_receipt.exe
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex05_receipt\ATHCh04Ex05_receipt\bin\Debug\ATHCh04Ex05_receipt.pdb
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex05_receipt\ATHCh04Ex05_receipt\obj\Debug\ATHCh04Ex05_receipt.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex05_receipt\ATHCh04Ex05_receipt\obj\Debug\ATHCh04Ex05_receipt.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex05_receipt\ATHCh04Ex05_receipt\obj\Debug\ATHCh04Ex05_receipt.exe
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex05_receipt\ATHCh04Ex05_receipt\obj\Debug\ATHCh04Ex05_receipt.pdb

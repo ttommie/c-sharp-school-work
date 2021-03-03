@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex01_date\ATHCh04Ex01_date\bin\Debug\ATHCh04Ex01_date.exe.config
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex01_date\ATHCh04Ex01_date\bin\Debug\ATHCh04Ex01_date.exe
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex01_date\ATHCh04Ex01_date\bin\Debug\ATHCh04Ex01_date.pdb
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex01_date\ATHCh04Ex01_date\obj\Debug\ATHCh04Ex01_date.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex01_date\ATHCh04Ex01_date\obj\Debug\ATHCh04Ex01_date.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex01_date\ATHCh04Ex01_date\obj\Debug\ATHCh04Ex01_date.exe
+E:\c_sharp_2021\chapter_04\Ch04_lab_work\ATHCh04Ex01_date\ATHCh04Ex01_date\obj\Debug\ATHCh04Ex01_date.pdb
