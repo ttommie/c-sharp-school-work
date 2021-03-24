@@ -1,0 +1,7 @@
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex01_romanNum\ATHCh05Ex01_romanNum\bin\Debug\ATHCh05Ex01_romanNum.exe.config
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex01_romanNum\ATHCh05Ex01_romanNum\bin\Debug\ATHCh05Ex01_romanNum.exe
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex01_romanNum\ATHCh05Ex01_romanNum\bin\Debug\ATHCh05Ex01_romanNum.pdb
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex01_romanNum\ATHCh05Ex01_romanNum\obj\Debug\ATHCh05Ex01_romanNum.csprojAssemblyReference.cache
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex01_romanNum\ATHCh05Ex01_romanNum\obj\Debug\ATHCh05Ex01_romanNum.csproj.CoreCompileInputs.cache
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex01_romanNum\ATHCh05Ex01_romanNum\obj\Debug\ATHCh05Ex01_romanNum.exe
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex01_romanNum\ATHCh05Ex01_romanNum\obj\Debug\ATHCh05Ex01_romanNum.pdb
