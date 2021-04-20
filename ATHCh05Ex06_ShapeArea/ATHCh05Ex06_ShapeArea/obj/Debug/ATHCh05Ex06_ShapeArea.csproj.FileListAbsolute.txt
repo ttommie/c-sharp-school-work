@@ -1,0 +1,7 @@
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex06_ShapeArea\ATHCh05Ex06_ShapeArea\bin\Debug\ATHCh05Ex06_ShapeArea.exe.config
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex06_ShapeArea\ATHCh05Ex06_ShapeArea\bin\Debug\ATHCh05Ex06_ShapeArea.exe
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex06_ShapeArea\ATHCh05Ex06_ShapeArea\bin\Debug\ATHCh05Ex06_ShapeArea.pdb
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex06_ShapeArea\ATHCh05Ex06_ShapeArea\obj\Debug\ATHCh05Ex06_ShapeArea.csprojAssemblyReference.cache
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex06_ShapeArea\ATHCh05Ex06_ShapeArea\obj\Debug\ATHCh05Ex06_ShapeArea.csproj.CoreCompileInputs.cache
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex06_ShapeArea\ATHCh05Ex06_ShapeArea\obj\Debug\ATHCh05Ex06_ShapeArea.exe
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex06_ShapeArea\ATHCh05Ex06_ShapeArea\obj\Debug\ATHCh05Ex06_ShapeArea.pdb

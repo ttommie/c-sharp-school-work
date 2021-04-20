@@ -1,0 +1,14 @@
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\bin\Debug\ATHCh05Ex03_BMIScale.exe.config
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\bin\Debug\ATHCh05Ex03_BMIScale.exe
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\bin\Debug\ATHCh05Ex03_BMIScale.pdb
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.exe
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.pdb
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.csprojAssemblyReference.cache
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.csproj.CoreCompileInputs.cache
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.exe
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\obj\Debug\ATHCh05Ex03_BMIScale.pdb
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\bin\Debug\ATHCh05Ex03_BMIScale.exe.config
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\bin\Debug\ATHCh05Ex03_BMIScale.exe
+D:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex03_BMIScale\ATHCh05Ex03_BMIScale\bin\Debug\ATHCh05Ex03_BMIScale.pdb

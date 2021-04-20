@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex07_monthDays\ATHCh05Ex07_monthDays\bin\Debug\ATHCh05Ex07_monthDays.exe.config
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex07_monthDays\ATHCh05Ex07_monthDays\bin\Debug\ATHCh05Ex07_monthDays.exe
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex07_monthDays\ATHCh05Ex07_monthDays\bin\Debug\ATHCh05Ex07_monthDays.pdb
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex07_monthDays\ATHCh05Ex07_monthDays\obj\Debug\ATHCh05Ex07_monthDays.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex07_monthDays\ATHCh05Ex07_monthDays\obj\Debug\ATHCh05Ex07_monthDays.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex07_monthDays\ATHCh05Ex07_monthDays\obj\Debug\ATHCh05Ex07_monthDays.exe
+E:\c_sharp_2021\chapter_05\Ch05_lab_work\ATHCh05Ex07_monthDays\ATHCh05Ex07_monthDays\obj\Debug\ATHCh05Ex07_monthDays.pdb
