@@ -1,0 +1,7 @@
+D:\c_sharp_2021\chapter_06\Ch06_lab_work\ATHCh06Ex04_ScoreAverage\ATHCh06Ex04_ScoreAverage\bin\Debug\ATHCh06Ex04_ScoreAverage.exe.config
+D:\c_sharp_2021\chapter_06\Ch06_lab_work\ATHCh06Ex04_ScoreAverage\ATHCh06Ex04_ScoreAverage\bin\Debug\ATHCh06Ex04_ScoreAverage.exe
+D:\c_sharp_2021\chapter_06\Ch06_lab_work\ATHCh06Ex04_ScoreAverage\ATHCh06Ex04_ScoreAverage\bin\Debug\ATHCh06Ex04_ScoreAverage.pdb
+D:\c_sharp_2021\chapter_06\Ch06_lab_work\ATHCh06Ex04_ScoreAverage\ATHCh06Ex04_ScoreAverage\obj\Debug\ATHCh06Ex04_ScoreAverage.csprojAssemblyReference.cache
+D:\c_sharp_2021\chapter_06\Ch06_lab_work\ATHCh06Ex04_ScoreAverage\ATHCh06Ex04_ScoreAverage\obj\Debug\ATHCh06Ex04_ScoreAverage.csproj.CoreCompileInputs.cache
+D:\c_sharp_2021\chapter_06\Ch06_lab_work\ATHCh06Ex04_ScoreAverage\ATHCh06Ex04_ScoreAverage\obj\Debug\ATHCh06Ex04_ScoreAverage.exe
+D:\c_sharp_2021\chapter_06\Ch06_lab_work\ATHCh06Ex04_ScoreAverage\ATHCh06Ex04_ScoreAverage\obj\Debug\ATHCh06Ex04_ScoreAverage.pdb
