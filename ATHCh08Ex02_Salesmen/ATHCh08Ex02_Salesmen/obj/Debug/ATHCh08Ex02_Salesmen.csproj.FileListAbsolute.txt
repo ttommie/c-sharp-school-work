@@ -1,0 +1,14 @@
+D:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\bin\Debug\ATHCh08Ex02_Salesmen.exe.config
+D:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\bin\Debug\ATHCh08Ex02_Salesmen.exe
+D:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\bin\Debug\ATHCh08Ex02_Salesmen.pdb
+D:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.csprojAssemblyReference.cache
+D:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.csproj.CoreCompileInputs.cache
+D:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.exe
+D:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.pdb
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\bin\Debug\ATHCh08Ex02_Salesmen.exe.config
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\bin\Debug\ATHCh08Ex02_Salesmen.exe
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\bin\Debug\ATHCh08Ex02_Salesmen.pdb
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.exe
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex02_Salesmen\ATHCh08Ex02_Salesmen\obj\Debug\ATHCh08Ex02_Salesmen.pdb

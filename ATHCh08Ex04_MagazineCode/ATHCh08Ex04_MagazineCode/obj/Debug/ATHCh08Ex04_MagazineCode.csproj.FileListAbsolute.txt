@@ -1,0 +1,7 @@
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex04_MagazineCode\ATHCh08Ex04_MagazineCode\bin\Debug\ATHCh08Ex04_MagazineCode.exe.config
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex04_MagazineCode\ATHCh08Ex04_MagazineCode\bin\Debug\ATHCh08Ex04_MagazineCode.exe
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex04_MagazineCode\ATHCh08Ex04_MagazineCode\bin\Debug\ATHCh08Ex04_MagazineCode.pdb
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex04_MagazineCode\ATHCh08Ex04_MagazineCode\obj\Debug\ATHCh08Ex04_MagazineCode.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex04_MagazineCode\ATHCh08Ex04_MagazineCode\obj\Debug\ATHCh08Ex04_MagazineCode.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex04_MagazineCode\ATHCh08Ex04_MagazineCode\obj\Debug\ATHCh08Ex04_MagazineCode.exe
+E:\c_sharp_2021\chapter_08\Ch08_Lab_Work\ATHCh08Ex04_MagazineCode\ATHCh08Ex04_MagazineCode\obj\Debug\ATHCh08Ex04_MagazineCode.pdb
