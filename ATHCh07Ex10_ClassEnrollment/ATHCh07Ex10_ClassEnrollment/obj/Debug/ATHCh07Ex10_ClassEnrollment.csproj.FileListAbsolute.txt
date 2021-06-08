@@ -1,0 +1,7 @@
+C:\Users\tinal\Documents\Visual Studio 2019\Projects\ATHCh07Ex10_ClassEnrollment\ATHCh07Ex10_ClassEnrollment\bin\Debug\ATHCh07Ex10_ClassEnrollment.exe.config
+C:\Users\tinal\Documents\Visual Studio 2019\Projects\ATHCh07Ex10_ClassEnrollment\ATHCh07Ex10_ClassEnrollment\bin\Debug\ATHCh07Ex10_ClassEnrollment.exe
+C:\Users\tinal\Documents\Visual Studio 2019\Projects\ATHCh07Ex10_ClassEnrollment\ATHCh07Ex10_ClassEnrollment\bin\Debug\ATHCh07Ex10_ClassEnrollment.pdb
+C:\Users\tinal\Documents\Visual Studio 2019\Projects\ATHCh07Ex10_ClassEnrollment\ATHCh07Ex10_ClassEnrollment\obj\Debug\ATHCh07Ex10_ClassEnrollment.csprojAssemblyReference.cache
+C:\Users\tinal\Documents\Visual Studio 2019\Projects\ATHCh07Ex10_ClassEnrollment\ATHCh07Ex10_ClassEnrollment\obj\Debug\ATHCh07Ex10_ClassEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\tinal\Documents\Visual Studio 2019\Projects\ATHCh07Ex10_ClassEnrollment\ATHCh07Ex10_ClassEnrollment\obj\Debug\ATHCh07Ex10_ClassEnrollment.exe
+C:\Users\tinal\Documents\Visual Studio 2019\Projects\ATHCh07Ex10_ClassEnrollment\ATHCh07Ex10_ClassEnrollment\obj\Debug\ATHCh07Ex10_ClassEnrollment.pdb

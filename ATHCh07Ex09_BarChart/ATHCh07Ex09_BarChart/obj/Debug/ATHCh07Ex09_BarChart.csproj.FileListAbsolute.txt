@@ -1,0 +1,14 @@
+E:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\bin\Debug\ATHCh07Ex09_BarChart.exe.config
+E:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\bin\Debug\ATHCh07Ex09_BarChart.exe
+E:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\bin\Debug\ATHCh07Ex09_BarChart.pdb
+E:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.csprojAssemblyReference.cache
+E:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.csproj.CoreCompileInputs.cache
+E:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.exe
+E:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.pdb
+D:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\bin\Debug\ATHCh07Ex09_BarChart.exe.config
+D:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\bin\Debug\ATHCh07Ex09_BarChart.exe
+D:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\bin\Debug\ATHCh07Ex09_BarChart.pdb
+D:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.csprojAssemblyReference.cache
+D:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.csproj.CoreCompileInputs.cache
+D:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.exe
+D:\c_sharp_2021\chapter_07\Ch07_lab_work\ATHCh07Ex09_BarChart\ATHCh07Ex09_BarChart\obj\Debug\ATHCh07Ex09_BarChart.pdb
